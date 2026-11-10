@@ -1,0 +1,9 @@
+Required content labels for this release:
+- AI-Generated Content: most application code, UI, English translation and documentation was created using Codex; the in-app emblem was generated with OpenAI ImageGen.
+- AI Media: the mod-page description was prepared with AI; the promotional emblem is AI-generated.
+
+The software source and original emblem prompt are included in the optional Source archive. Screenshots, when provided, are captures of the actual application, not generated mockups.
+
+Policy references checked 2026-11-10:
+https://help.nexusmods.com/article/28-file-submission-guidelines
+https://help.nexusmods.com/article/180-ai-policy-changes-2026

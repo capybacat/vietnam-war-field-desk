@@ -1,0 +1,19 @@
+0.4.0 Alpha - 2026-11-10
+- First English public-release candidate.
+- Translated interface labels, status messages, validation errors and resource groups.
+- English number formatting, independent of the Windows display language.
+- Readable spaced names for remaining skill fields.
+- Launch game uses the Steam URI rather than a fixed installation folder.
+- Packaged manual-download app and separate source archive.
+
+0.3 - Private build
+- Field Desk visual redesign: olive panels, amber indicators, topographic header and field journal.
+- Generated Huey emblem and embedded multi-size Windows icon.
+- High-DPI layout fixes and keyboard navigation.
+
+0.2 - Private build
+- Cash/bank, personal supplies, carried materials and field-base stock editors.
+- Group restock, typed resource validation and owner checks for undo.
+
+0.1 - Private build
+- Initial XP, skills, rank progression and weapon-training editor.
